@@ -1,2 +1,2 @@
 # ML-DataScience
-This repository contains a collection of learing progress (exercise) about learning machine learning and data science.
+This repository containing Machine Learning Projects such as computer vision, image classification, time series, etc. Also this repo is placement for data scientist project.
